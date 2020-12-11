@@ -1,0 +1,3 @@
+[submodule "hs-split"]
+	path = hs-split
+	url = https://github.com/byorgey/split.git
